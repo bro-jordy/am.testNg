@@ -1,4 +1,4 @@
-package org.example;
+package utilities;
 
 public class Meta {
     public String metaTitle;

@@ -1,0 +1,11 @@
+steps/shopplus/DetailSteps.class
+runners/BaseTestRunner.class
+steps/Aladinmall/HomepageSteps.class
+steps/Aladinmall/CheckoutSteps.class
+steps/shopplus/AlamatSteps.class
+runners/AladinmallTestRunner.class
+steps/Hooks.class
+steps/Aladinmall/LoginSteps.class
+steps/CommonSteps.class
+steps/Aladinmall/CartSteps.class
+steps/shopplus/DetailPesananSteps.class

@@ -2,9 +2,11 @@ package utilities;
 
 import javax.persistence.Column;
 import javax.persistence.Table;
-@Table(name="products")
-public class Products {
+import java.math.BigDecimal;
 
-    @Column(name = "id")
-    public Long id;
+@Table(name="product_variants")
+public class ProductVariants {
+
+    @Column(name = "special_price")
+    public BigDecimal specialPrice;
 }
